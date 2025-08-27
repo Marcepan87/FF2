@@ -1,0 +1,6 @@
+streamlit
+pandas
+pycaret.clustering
+plotly.express
+json
+Path
