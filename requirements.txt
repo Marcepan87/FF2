@@ -1,6 +1,6 @@
 streamlit
 pandas
-pycaret.clustering
-plotly.express
+pycaret
+plotly
 json
 Path
